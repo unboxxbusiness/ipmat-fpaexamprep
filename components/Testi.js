@@ -23,9 +23,9 @@ const Testi = () => {
                         </div>
                     </div>
                     <blockquote className="mt-7">
-                        <p className="text-lg text-black">Choosing FPA for my exam preparation was one of the best decisions I made. Their expert tutors and well-structured resources gave me the edge I needed to excel. I highly recommend FPA to anyone serious about acing their exams</p>
+                        <p className="text-lg text-black">FPAs IPMAT program provided invaluable support, helping me secure admission to my dream institute. Their expert guidance and comprehensive study materials were instrumental in my success.</p>
                     </blockquote>
-                    <p className="text-base font-semibold tex-tblack mt-9">Roni Kumar</p>
+                    <p className="text-base font-semibold tex-tblack mt-9">Sohan Kumar</p>
                     <p className="mt-1 text-base text-gray-600">Student</p>
                 </div>
             </div>
@@ -43,9 +43,9 @@ const Testi = () => {
                         </div>
                     </div>
                     <blockquote className="mt-7">
-                        <p className="text-lg text-black">FPA exam prep exceeded my expectations. The instructors were knowledgeable, approachable, and genuinely invested in my progress. Thanks to their guidance, I not only passed the exam but also gained a deeper understanding of the subject matter</p>
+                        <p className="text-lg text-black">FPAs IPMAT preparation was spot-on! Their personalized attention and rigorous mock tests boosted my confidence, leading to my success in the exam. Highly recommend their program to all IPMAT aspirants.</p>
                     </blockquote>
-                    <p className="text-base font-semibold tex-tblack mt-9">Suhani</p>
+                    <p className="text-base font-semibold tex-tblack mt-9">Rohan Singh</p>
                     <p className="mt-1 text-base text-gray-600">Student</p>
                 </div>
             </div>
@@ -63,9 +63,9 @@ const Testi = () => {
                         </div>
                     </div>
                     <blockquote className="mt-7">
-                        <p className="text-lg text-black">FPA exam prep program transformed my approach to studying. The structured curriculum and personalized feedback helped me identify my weaknesses and turn them into strengths. Thanks to FPA, I approached the exam with confidence and came out successful</p>
+                        <p className="text-lg text-black">Thanks to FPAs IPMAT program, I aced the exam and secured admission to a top management program. Their facultys expertise and focused approach to preparation made all the difference in my journey.</p>
                     </blockquote>
-                    <p className="text-base font-semibold tex-tblack mt-9">Sohan</p>
+                    <p className="text-base font-semibold tex-tblack mt-9">Radhika</p>
                     <p className="mt-1 text-base text-gray-600">Student</p>
                 </div>
             </div>

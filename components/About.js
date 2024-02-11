@@ -11,11 +11,15 @@ const About = () => {
     <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
         <div className="grid items-center grid-cols-1 md:grid-cols-2">
             <div>
-                <h2 className="text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl gap-4">Why CUET 2024?
+                <h2 className="text-3xl font-bold leading-tight text-black sm:text-4xl lg:text-5xl gap-4">Why Management?
 </h2>
-                <p className="max-w-lg mt-3 text-xl leading-relaxed text-gray-600 md:mt-8">A common entrance test eliminates the need to take multiple entrance exams for different programs. The
-exam also reduces the dependency of students on Class XII board exam marks and brings them on a common
-platform for admissions into Central Universities</p>
+                <p className="max-w-lg mt-3 text-xl leading-relaxed text-gray-600 md:mt-8">There are great reasons to pursue a career in management. The top four reasons are probably <br />
+                1. Pervasive, 2. Prestige, 3. Pay, 4. Power. The demand for management graduates and postgraduates has been growing consistently
+over the past two decades. There has been a significant change in the way businesses are
+being run and grown. <br /> The present demand for management graduates is evident from the fact that over I lakh students
+appear for undergraduate management entrance examinations every year. A management
+graduate has basic skills for almost all types of jobs
+</p>
 
                 <p className="mt-4 text-xl text-gray-600 md:mt-8">
                     <span className="relative inline-block">

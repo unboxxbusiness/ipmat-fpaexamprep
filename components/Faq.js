@@ -14,7 +14,7 @@ const Accordion = () => {
                 Any Questions? Look Here
               </h2>
               <p className="text-base text-body-color dark:text-dark-6">
-                Here are some frequently asked questions (FAQs) related to CUET (COMMON UNIVERSITY ENTRANCE TEST) preparation with FPA
+              Here are some frequently asked questions (FAQs) related to IPMAT
               </p>
             </div>
           </div>
@@ -23,30 +23,30 @@ const Accordion = () => {
         <div className="-mx-4 flex flex-wrap">
           <div className="w-full px-4 lg:w-1/2">
             <AccordionItem
-              header="Who conducts CUET 2024?"
-              text="CUET 2024 is conducted by the National Testing Agency (NTA), which is responsible for organizing various entrance examinations in India."
+              header="What is IPMAT?"
+              text="IPMAT stands for Integrated Program in Management Aptitude Test. It is an entrance exam conducted by certain Indian Institutes of Management (IIMs) for admission to their Integrated Program in Management (IPM)."
             />
             <AccordionItem
-              header="What programs does CUET 2024 cover?"
-              text="CUET 2024 covers undergraduate programs in central universities, including courses in arts, sciences, commerce, engineering, management, and other disciplines."
+              header="Who can apply for IPMAT?"
+              text="Candidates who have completed their 12th grade or equivalent examination with a minimum percentage score (usually around 60-75%) from a recognized board or university are eligible to apply. Additionally, candidates must fulfill the age criteria specified by the respective IIMs."
             />
             <AccordionItem
-              header="Is there any age limit for appearing in CUET 2024?"
-              text="There is typically no upper age limit for appearing in CUET 2024. However, candidates must meet the eligibility criteria specified by the respective universities and NTA."
+              header="How can I apply for IPMAT?"
+              text="The application process for IPMAT typically involves registering on the official website of the respective IIM conducting the exam, filling out the application form, uploading necessary documents, and paying the application fee online."
             />
           </div>
           <div className="w-full px-4 lg:w-1/2">
             <AccordionItem
-              header="How can I apply for CUET 2024?"
-              text="To apply for CUET 2024, visit the CUET portal, register, fill the form, upload documents, pay the fee, and submit before the deadline. For assistance, contact FPA Exam Prep."
+              header="Is there negative marking in IPMAT?"
+              text="Yes, there is usually a provision for negative marking in IPMAT. One mark is deducted for each incorrect answer, while no marks are deducted for unanswered questions."
             />
             <AccordionItem
-              header="How can I prepare for CUET 2024?"
-              text="To prepare for CUET 2024, FPA provides comprehensive classes and essential resources covering the exam syllabus. Enroll in our CUET preparation program for expert guidance, study materials, practice tests, and personalized support to excel in your exam preparation."
+              header="Does FPA provide assistance with post-exam procedures like counseling and admissions?"
+              text="Yes, FPA offers support and guidance for post-exam procedures, including counseling sessions, application assistance, and updates on admission processes to help students navigate the admission process smoothly."
             />
             <AccordionItem
-              header="When will the results for CUET 2024 be declared?"
-              text="The results for CUET 2024 are usually declared within a few weeks after the examination. Candidates can check their results on the official website of NTA or the respective central university they have applied to."
+              header="Can I access FPA's study materials and resources online?"
+              text="Yes, FPA offers online access to study materials, resources, recorded lectures, and practice tests, providing flexibility and convenience for students to study anytime, anywhere."
             />
           </div>
         </div>
